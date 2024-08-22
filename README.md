@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Kruti
-- A passionate frontend developer from India
+
 - 🔭 I’m currently working on Syfrox IT Company
 - 🌱 I’m currently learning NodeJs, Angular
 -👨‍💻 All of my projects are available at https://github.com/Kruti190
